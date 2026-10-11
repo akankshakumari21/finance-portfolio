@@ -40,7 +40,7 @@ Based on the testing protocols completed and the evidence logged in the workbook
 ## 4. File Guide for Reviewers
 To review the actual files in this repository, follow this logical sequence:
 1. `01-audit-planning-memo.docx` — Review first for full client context and baseline strategy.
-2. `01-audit-working-papers.xlsx` — Open this to see formulas for materiality calculations, the automated risk heatmap matrix, and the live testing log containing tick marks (`✓`) and exception flags (``).
+2. `01-audit-working-papers.xlsx` — Open this to see formulas for materiality calculations, the risk matrix, and the live testing log containing tick marks (`✓`) and exception flags (``).
 3. `01-audit-conclusion-memo.docx` — Review last for the final rolled-up sign-off and control guidance.
 
 ---
