@@ -65,11 +65,3 @@ All verified financial statement outputs have been exported as immutable data as
       📄 04-balance-sheet.pdf        <-- (Financial Position Snapshot)
 ```
 
----
-
-## 🎓 Core Technical Competencies Evidenced
-* Advanced Operation of Zoho Books Cloud Accounting Frameworks.
-* Execution of Corporate Bank Reconciliations (BRS Ledger Controls).
-* Practical Application of Indian GST (GSTR-3B Mapping) and Input Tax Credit Rules.
-* Withholding Tax Management (TDS Deductions under Chapter XVII-B).
-
